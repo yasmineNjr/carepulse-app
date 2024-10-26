@@ -1,2 +1,10 @@
+tutorıal lınk 
+Build and Deploy a Patient Management System with Next.js | Twilio, TypeScript, TailwindCSS
+https://www.youtube.com/watch?v=lEflo_sc82g
+
 to add custom components
 https://ui.shadcn.com/
+
+
+Real url
+https://carepulse-app-umber.vercel.app/
