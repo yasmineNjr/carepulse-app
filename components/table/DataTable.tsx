@@ -50,7 +50,7 @@ export function DataTable<TData, TValue>({
     getCoreRowModel: getCoreRowModel(),
     getPaginationRowModel: getPaginationRowModel(),
   });
-
+  console.log(data)
   return (
     <div className="data-table">
       <Table className="shad-table">
